@@ -1,0 +1,88 @@
+2023-04-21T12:59:33+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:36:01+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:37:10+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:37:14+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:37:18+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:37:35+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:41:22+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
+2023-04-21T15:45:12+00:00 CRITICAL Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, string given in C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php:479
+Stack trace:
+#0 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(479): array_filter('read_post')
+#1 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php(78): WP_User_Query->prepare_query(Array)
+#2 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(775): WP_User_Query->__construct(Array)
+#3 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\user.php(1667): get_users(Array)
+#4 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\includes\class-wp-posts-list-table.php(1711): wp_dropdown_users(Array)
+#5 C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-admin\edit.php(493): WP_Posts_List_Table->inline_edit()
+#6 {main}
+  thrown en C:\Users\Matias Flores\Local Sites\blocks\app\public\wp-includes\class-wp-user-query.php en la línea 479
+
